@@ -8,18 +8,6 @@ I am a results-driven **Data Scientist** focused on turning raw data into action
 
 
 
-## 📈 GitHub Insights & Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=iberkguven&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iberkguven&layout=compact&theme=radical&hide_border=true&hide=html,css" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=iberkguven&theme=radical&hide_border=true" />
-</p>
-
----
 
 ## 📫 Connect with me
 - **LinkedIn:** [İlhan Berk Güven](https://www.linkedin.com/in/iberkguven/)
