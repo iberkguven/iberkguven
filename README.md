@@ -11,7 +11,4 @@ I am a results-driven **Data Scientist** focused on turning raw data into action
 
 ## 📫 Connect with me
 - **LinkedIn:** [İlhan Berk Güven](https://www.linkedin.com/in/iberkguven/)
-- **Email:** [ilhanberkguven@gmail.com]
-
----
-*"Data is the new oil, but it's only useful if you know how to refine it."*
+- **Email:** ilhanberkguven@gmail.com
