@@ -10,5 +10,5 @@ I am a results-driven **Data Scientist** focused on turning raw data into action
 
 
 ## 📫 Connect with me
-- **LinkedIn:** [İlhan Berk Güven](https://www.linkedin.com/in/iberkguven/)
+- **LinkedIn:** [İlhan Berk Güven](https://www.linkedin.com/in/ilhan-berk-guven//)
 - **Email:** ilhanberkguven@gmail.com
